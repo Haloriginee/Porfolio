@@ -81,5 +81,4 @@ $(window).on("load", function () {
     });
   }),
   $(function () {
-    $("#testimonial-slider").owlCarousel({ items: 1, autoplay: !1, smartSpeed: 700, loop: !0, autoplayHoverPause: !0, nav: !1, dots: !0 });
   });

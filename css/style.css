@@ -489,10 +489,13 @@ ul.social-list li a {
   margin: 0 0 10px;
 }
 
+/*
 #portfolio {
   background: url(../image/bg/pattern.jpg) center fixed no-repeat;
   background-size: cover;
 }
+*/
+
 #portfolio .vertical-heading {
   margin-bottom: 50px;
 }
