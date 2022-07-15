@@ -68,3 +68,7 @@ footer p,
 ul.social-list li a {
   color:#fff
 }
+
+.grid {
+  border: none !important;
+}

@@ -155,10 +155,7 @@
   #isotope-filters button span {
     font-size:12px
   }
-  .author-name-des p {
-    font-size:22px
-  }.testimonial .author .author-img {
-    width:100px
+
   }.stats-item {
     margin-bottom:20px;
     padding:25px 5px
@@ -189,7 +186,7 @@
     margin:5px 0;
     text-align:center
   }
-}
+
 
 @media (max-width: 570px) {
   #status {
@@ -237,17 +234,6 @@
   }
   #portfolio .vertical-heading {
     margin-bottom:30px
-  }
-  .author-name-des p {
-    font-size:18px;
-    padding:0 0 0 10px
-  }
-  .testimonial .author .author-img {
-    width:76px
-  }
-  .testimonial .review {
-    margin:20px 0 20px 0;
-    font-size:15px
   }
   .owl-theme .owl-nav.disabled+.owl-dots {
     margin-top:0
