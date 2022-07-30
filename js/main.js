@@ -5,7 +5,7 @@ $(window).on("load", function () {
     $.iMissYou({ title: "I miss you. 😔", favicon: { enabled: !1 } });
   }),
   $(window).on("load", function () {
-    new Typed("#home-profile-info", { strings: ["I'm Hang Kévin...", "Web Developer... ", "Lazyness Specialist! "], loop: !10, typeSpeed: 50, backSpeed: 30 });
+    new Typed("#home-profile-info", { strings: ["I'm Hang Kévin...", "Web Developer... ", "Laziness Specialist! "], loop: !10, typeSpeed: 50, backSpeed: 30 });
   }),
   $(function () {
     $(".menu-toggle").click(function () {
