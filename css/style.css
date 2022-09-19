@@ -220,20 +220,22 @@ ul.social-list li a {
 }
 #home {
   position: relative;
-  background: url(../images/home_bg.webp) center no-repeat fixed;
+  background: url(../images/newsun.jpg) center no-repeat fixed;
   background-size: cover;
   width: 100%;
   height: 100%;
   overflow: hidden;
 }
 #home .overlay-1 {
-  background: url(../images/overlay_1.webp) center no-repeat;
+  background: url(../images/newday.png) center no-repeat;
   background-size: cover;
 }
+/*
 #home .overlay-2 {
   background: url(../images/overlay_2.webp) center no-repeat;
   background-size: cover;
 }
+*/
 #round {
   position: absolute;
   top: 0;
@@ -439,13 +441,13 @@ ul.social-list li a {
     transform: rotate(45deg) translate(20px, 20px);
   }
 }
-/*
+
 #about {
-  background: url(../images/pattern.web) center no-repeat fixed;
+  background: url(../images/newsun.jpg) center no-repeat fixed;
   background-size: cover;
   overflow: visible;
 }
-*/
+
 #about p,
 #progress-elements {
   margin: 50px 0;
@@ -475,7 +477,7 @@ ul.social-list li a {
 
 
 #portfolio {
-  background: url(../images/portfolio.jpg) center fixed no-repeat;
+  background: url(../images/Power.png) center fixed no-repeat;
   background-size: cover;
 }
 
@@ -561,7 +563,7 @@ ul.social-list li a {
 #stats {
   position: relative;
   background: rgba(0, 0, 0, 0.8);
-  background: url(../images/waterfall.png) center fixed;
+  background: url(../images/Power.png) center fixed;
   background-size: 100% auto;
   z-index: -1;
 }
@@ -594,12 +596,12 @@ ul.social-list li a {
   -ms-transform: translateY(-10px);
   transform: translateY(-10px);
 }
-/*
+
 #contact {
-  background: url(../image/contact.jpg) top no-repeat fixed;
+  background: url(../images/newday.png) top no-repeat fixed;
   background-size: cover;
 }
-*/
+
 #contact-left p {
   margin: 35px 0 20px;
 }

@@ -2,10 +2,10 @@ $(window).on("load", function () {
   $("body").css("overflow", "visible");
 }),
   $(function () {
-    $.iMissYou({ title: "I miss you. 😔", favicon: { enabled: !1 } });
+    $.iMissYou({ title: "Hello There ! 😔", favicon: { enabled: !1 } });
   }),
   $(window).on("load", function () {
-    new Typed("#home-profile-info", { strings: ["I'm Hang Kévin...", "Web Developer... ", "Laziness Specialist! "], loop: !10, typeSpeed: 50, backSpeed: 30 });
+    new Typed("#home-profile-info", { strings: ["I'm Hang Kévin...", "Web Developer... ", "Laziness Specialist! "], loop: 10, typeSpeed: 50, backSpeed: 30 });
   }),
   $(function () {
     $(".menu-toggle").click(function () {
